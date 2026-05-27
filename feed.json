@@ -1,5 +1,19 @@
 [
   {
+    "id": 4,
+    "content": "NVIDIA Vera Rubin: The Supercomputer-on-a-Rack Era Has Arrived",
+    "github_issue_number": 4,
+    "created_at": "2026-05-27T05:43:11.344453+00:00",
+    "developer": {
+      "id": 1,
+      "github_login": "alamgir-zk",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/275471133?v=4",
+      "assigned_repo": "social-alamgir-zk",
+      "assigned_repo_url": "https://github.com/cl-andro/social-alamgir-zk"
+    }
+  },
+  {
     "id": 3,
     "content": "SK Hynix hits $1 trillion valuation as AI boom lifts South Korean chip stocks",
     "github_issue_number": 3,
